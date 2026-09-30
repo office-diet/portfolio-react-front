@@ -38,6 +38,8 @@
 本リポジトリのフロントエンド設計やコンポーネント構成の詳細については、以下のドキュメントをご参照ください。
 * **[フロントエンド設計・仕様書 (Frontend Specs)](./docs/frontend-specs.md)**
   * React/TypeScriptによるコンポーネント分割、WebSocketのライフサイクル管理、UI/UXのこだわり（自動スクロール制御やIME入力制御など）をまとめています。
+* **[簡易版ポートフォリオ・スライド (Google Drive)](https://drive.google.com/file/d/1QVz69x2bxvEy3y62eVaxzeCQg1Fvcegj/view?usp=sharing)**
+  * 本アプリの全体像を説明する資料。リンクからGoogle Drive上のPDFファイルをご覧いただけます。
 
 ---
 
